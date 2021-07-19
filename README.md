@@ -4,7 +4,7 @@
 
 ### Website Link - [Weather-X](https://weatheraravinth.netlify.app/)
 
-### Framework - [ReactJS](https://angularjs.org/)
+### Framework - [ReactJS](https://reactjs.org/)
 
 ### API - [openweathermap.org](https://openweathermap.org/)
 
