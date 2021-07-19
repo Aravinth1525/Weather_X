@@ -6,7 +6,7 @@
 
 ### Framework - [ReactJS](https://angularjs.org/)
 
-### API - [newsapi.org](https://openweathermap.org/)
+### API - [openweathermap.org](https://openweathermap.org/)
 
 ## **Result**
 
