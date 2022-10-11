@@ -1,14 +1,8 @@
-## **Weather - X**
-
-"Weather-X", a dynamic website which has accurate weather information for anytime and everywhere. Local weather forecast & real time rain, storm, ice & snow reports...By this weather information, you can prepare your plan carefully, you will be successful at work and have better life.
-
-### Website Link - [Weather-X](https://weatheraravinth.netlify.app/)
-
-### Framework - [ReactJS](https://reactjs.org/)
+# **Weather - X**
 
 ### API - [openweathermap.org](https://openweathermap.org/)
 
-## **Result**
+### Samples
 
 ### Erode 
 ![Screenshot (69)](https://user-images.githubusercontent.com/79074310/126234384-9d38ac9b-aa62-4356-8f41-b9d88d9bd453.png)
